@@ -1,0 +1,7 @@
+{
+  "policy": "refund",
+  "policies": {
+    "refund": "Refund requests must be made within 30 days.",
+    "shipping": "Shipping estimates depend on destination."
+  }
+}

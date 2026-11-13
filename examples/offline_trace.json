@@ -1,0 +1,14 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "policy_lookup",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "policy_lookup",
+    "elapsed_seconds": 0.00026
+  }
+]

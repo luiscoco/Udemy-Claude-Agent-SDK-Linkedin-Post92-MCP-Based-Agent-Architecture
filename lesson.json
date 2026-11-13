@@ -1,0 +1,16 @@
+{
+  "lesson": 91,
+  "title": "MCP-Based Agent Architecture",
+  "application": "MCP Policy Lookup Service",
+  "purpose": "Build a real in-process MCP capability and configure its qualified tool name explicitly.",
+  "exercise": "Add another policy to the catalogue, then try an unknown name. Compare this transport with the separate server in Lesson 23.",
+  "source_topics": [
+    "00-Arquitectura de agentes MCP explicada.png",
+    "01-What-Is-MCP.png",
+    "02-MCP-in-the-Claude-Agent-SDK.png",
+    "03-Connect-External-MCP-Servers.png",
+    "04-Build-an-In-Process-MCP-Server.png",
+    "05-The-MCP-Agent-Workflow.png",
+    "06-Secure-MCP-Best-Practices.png"
+  ]
+}

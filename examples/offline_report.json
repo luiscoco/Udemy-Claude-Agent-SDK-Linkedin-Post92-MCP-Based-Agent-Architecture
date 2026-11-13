@@ -1,0 +1,17 @@
+{
+  "lesson": 91,
+  "application": "MCP Policy Lookup Service",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "tool_name": "mcp__lesson__get_policy",
+    "reference_observation": {
+      "name": "refund",
+      "text": "Refund requests must be made within 30 days.",
+      "source": "bundled policy fixture"
+    },
+    "answer": "Refund requests must be made within 30 days.",
+    "server_type": "in-process SDK MCP"
+  },
+  "measured_cost_usd": null
+}
